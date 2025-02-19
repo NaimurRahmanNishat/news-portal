@@ -27,7 +27,7 @@ const AboutPage: React.FC = () => {
           </p>
 
           <p className="text-gray-700 text-lg mb-4">
-            We cover a wide range of topics, including politics, business, technology, culture, and sports. Whether you're looking for breaking news or thoughtful features, we've got you covered.
+            We cover a wide range of topics, including politics, business, technology, culture, and sports. Whether you&apos;re looking for breaking news or thoughtful features, we&apos;ve got you covered.
           </p>
 
           <p className="text-gray-700 text-lg">
