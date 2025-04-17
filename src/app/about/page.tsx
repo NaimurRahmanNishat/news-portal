@@ -4,7 +4,7 @@ import Head from 'next/head';
 
 const AboutPage: React.FC = () => {
   return (
-    <div className="min-h-screen bg-gray-100 py-8">
+    <div className="min-h-screen py-8">
       <Head>
         <title>About Us - Newspaper Name</title>
         <meta name="description" content="Learn more about Newspaper Name and our mission to deliver quality news." />

@@ -38,7 +38,7 @@ const ContactPage = () => {
       </div>
       <div className="container mx-auto px-4">
         <div className="w-full h-full pb-20 md:pb-0 md:h-[944px] pt-20">
-          <h1 className="text-black font-semibold text-[36px] flex items-center justify-center">
+          <h1 className="text-black dark:text-white font-semibold text-[36px] flex items-center justify-center">
             Get In Touch With Us
           </h1>
           <p className="text-[#9F9F9F] font-normal text-center text-[16px] flex items-center justify-center pt-2">
@@ -52,10 +52,10 @@ const ContactPage = () => {
               <div className="flex items-center gap-2 md:pt-16 pt-8">
                 <FaLocationDot />
                 <div>
-                  <h3 className="text-black font-medium text-[24px] pt-12">
+                  <h3 className="text-black dark:text-white font-medium text-[24px] pt-12">
                     Address
                   </h3>
-                  <p className="font-normal text-[16px] text-black">
+                  <p className="font-normal dark:text-white text-[16px] text-black">
                     236 5th SE Avenue, New York NY10000, <br /> United States
                   </p>
                 </div>
@@ -63,7 +63,7 @@ const ContactPage = () => {
               <div className="flex items-center gap-2">
                 <FaPhone />
                 <div>
-                  <h3 className="text-black font-medium text-[24px] pt-12">
+                  <h3 className="text-black dark:text-white font-medium text-[24px] pt-12">
                     Phone
                   </h3>
                   <p>Mobile: +(84) 546-6789</p>
